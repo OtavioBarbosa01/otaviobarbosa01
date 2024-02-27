@@ -1,4 +1,11 @@
 ### Olá! sou o Otavio Barbosa
 
-- 🔭 Trabalho com front-end
-- 🌱 Estudando Python
+- 🔭 Trabalho com Full Stack
+
+  .HTML
+  .CSS
+  .JS
+  .REACT
+  .NODE.JS
+  .EXPRESS
+  .MYSQL
