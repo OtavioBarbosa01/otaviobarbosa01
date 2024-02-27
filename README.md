@@ -6,6 +6,8 @@
   .CSS
   .JS
   .REACT
+  .NEXT.JS
   .NODE.JS
   .EXPRESS
+  .MONGODB
   .MYSQL
