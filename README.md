@@ -2,6 +2,8 @@
 
 - 🔭 Trabalho com Full Stack
 
+- devebarbosa.com
+
   .HTML
   .CSS
   .JS
