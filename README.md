@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com Full Stack
 
-- [Portfolio](devebarbosa.com)
+- [Portfolio](https://devebarbosa.com/)
 
   .HTML
   .CSS
